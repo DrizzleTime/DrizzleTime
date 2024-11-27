@@ -7,7 +7,7 @@
 
 🤔 这是我最经常使用的编程语言：
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrizzleTime)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrizzleTime&layout=compact)
 
 
 因为旧帐号双因子丢失，所以创建了新的账号
