@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shiyu (DrizzleTime)
+# 👋 Hi there, I'm 时雨
 
 💡 Enthusiastic open-source contributor & lifelong tech learner  
 🧠 Always exploring, building, and sharing knowledge  
@@ -12,7 +12,7 @@
 
 ## 🔗 Connect with Me
 
-- 🌐 [Blog](https://shiyu.dev)
+- 🌐 Blog: [https://shiyu.dev](https://shiyu.dev)
 - 📧 Email: [im@shiyu.dev](mailto:im@shiyu.dev)
 
 ---
