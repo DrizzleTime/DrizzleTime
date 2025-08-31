@@ -8,7 +8,4 @@ I build with C#, TypeScript, and Python, explore cloud and AI, and enjoy sharing
 
 ## 📊 Stats & Playground
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrizzleTime&show_icons=true&theme=transparent" alt="DrizzleTime's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrizzleTime&layout=compact&hide=html,css&theme=transparent" alt="Most Used Languages" />
-</div>
+![DrizzleTime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrizzleTime&show_icons=true&theme=transparent)
